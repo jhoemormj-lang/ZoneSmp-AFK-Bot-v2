@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Zone",
+    "username": "ZoneBot",
     "password": "",
     "type": "offline"
   },
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Perzuu"
+      "password": "jhoem2011mj6"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,6 +31,8 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
+        "Subscribe to kingsowrov!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
@@ -87,4 +89,4 @@
     "respond": true
   }
 } 
-
+ [SPVP], 
